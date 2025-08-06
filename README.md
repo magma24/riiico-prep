@@ -24,14 +24,14 @@ riiico-prep/
 
 | Day         | Task                                 |
 |-------------|--------------------------------------|
-| July 30     | Git + environment setup, roadmap     |
-| July 31     | Point Cloud ICP Project              |
-| August 1    | Surface Reconstruction Project       |
-| August 2    | Math Review (geometry, optimization) |
-| August 3    | Volumetric Modeling Project          |
-| August 4    | Mock Interview + GitHub polish       |
-| August 5    | Final Review + Calm Before the Storm |
-| **Aug 6**   | **Interview at RIIICO (16:00) 🎯**    |
+| July 30     | Theory                               |
+| July 31     | Git + environment setup, roadmap     |
+| August 1    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| August 2    | Point Cloud ICP Project              |
+| August 3    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| August 4    | Surface Reconstruction Project       |
+| August 5    | Volumetric modeling                  |
+| **Aug 6**   | **Interview at RIIICO (16:00) 🎯**   |
 
 ---
 
@@ -40,7 +40,7 @@ riiico-prep/
 - Python
 - Open3D
 - NumPy, Matplotlib
-- (Optional later) COLMAP, PyTorch, MeshLab
+- (Optional later + - ) COLMAP, PyTorch, MeshLab
 
 ---
 
